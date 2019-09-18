@@ -1,0 +1,6 @@
+/Users/azamat/Projects/Snake/Snake/bin/Debug/Snake.exe
+/Users/azamat/Projects/Snake/Snake/bin/Debug/Snake.pdb
+/Users/azamat/Projects/Snake/Snake/obj/x86/Debug/Snake.csprojAssemblyReference.cache
+/Users/azamat/Projects/Snake/Snake/obj/x86/Debug/Snake.csproj.CoreCompileInputs.cache
+/Users/azamat/Projects/Snake/Snake/obj/x86/Debug/Snake.exe
+/Users/azamat/Projects/Snake/Snake/obj/x86/Debug/Snake.pdb
